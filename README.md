@@ -22,13 +22,15 @@ To transform customer, subscription, churn, support, and product-usage data into
 ## 🖼️ Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](Executive_Overview.png)
+![Executive Overview](./01_Executive_Overview.png)
 
-### Customer & Churn Analysis
-![Customer & Churn Analysis](Customer_Churn_Analysis.png)
+### 2. Customer & Churn Analysis
 
-### Product Usage & Retention
-![Product Usage & Retention](Product_Usage_Retention.png)
+![Customer & Churn Analysis](./02_Customer_Churn_Analysis.png)
+
+### 3. Product Usage & Retention
+
+![Product Usage & Retention](./03_Product_Usage_Retention.png)
 
 ---
 
